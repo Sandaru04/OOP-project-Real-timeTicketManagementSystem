@@ -71,7 +71,7 @@
 
 <ul>
   <li>Java 22: For the backend.</li>
-  <li>React: For the frontend.</li>
+  <li>React (Node.js/Npm): For the frontend.</li>
   <li>Maven: To build the project.</li>
   <li>Git: To clone the repository.</li>
 </ul>
